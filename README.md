@@ -1,8 +1,8 @@
 # 💫 About Me:
-# 💫 About Me<br>## Hi there 👋<br>I'm **Gaurvee Tripathi**, a passionate **Data Analyst** who enjoys turning raw data into meaningful insights and actionable solutions. I love working with data, discovering patterns, and helping make data-driven decisions.<br><br>## 💻 Tech Stack<br>**Languages:** Python • SQL  <br>**Data Analysis & Visualization:** Excel • Power BI  <br>**Databases:** PostgreSQL  <br><br>## 🚀 What I'm Doing<br>- Analyzing data to uncover trends and insights  <br>- Building dashboards and visual reports  <br>- Strengthening skills in data analytics and visualization  <br><br>## 🎯 Goals<br>- To become a skilled data analyst and work on real-world datasets  <br>- To create impactful dashboards and data-driven solutions  
+💫 About Me<br>## Hi there 👋<br>I'm **Gaurvee Tripathi**, a passionate **Data Analyst** who enjoys turning raw data into meaningful insights and actionable solutions. I love working with data, discovering patterns, and helping make data-driven decisions.<br><br>## 💻 Tech Stack<br>**Languages:** Python • SQL  <br>**Data Analysis & Visualization:** Excel • Power BI  <br>**Databases:** PostgreSQL  <br><br>## 🚀 What I'm Doing<br>- Analyzing data to uncover trends and insights  <br>- Building dashboards and visual reports  <br>- Strengthening skills in data analytics and visualization  <br><br>## 🎯 Goals<br>- To become a skilled data analyst and work on real-world datasets  <br>- To create impactful dashboards and data-driven solutions  
 
 
-## 🌐 Socials:
+#🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurvee._.tripathi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurvee-tripathi-33103a328/) 
 
 # 💻 Tech Stack:
