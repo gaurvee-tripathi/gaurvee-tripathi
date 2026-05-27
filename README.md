@@ -1,4 +1,4 @@
-# 💫 About Me:⭐
+# 💫 About Me:
 💫 About Me<br>## Hi there 👋<br>I'm **Gaurvee Tripathi**, a passionate **Data Analyst** who enjoys turning raw data into meaningful insights and actionable solutions. I love working with data, discovering patterns, and helping make data-driven decisions.<br><br>## 💻 Tech Stack<br>**Languages:** Python • SQL  <br>**Data Analysis & Visualization:** Excel • Power BI  <br>**Databases:** PostgreSQL  <br><br>## 🚀 What I'm Doing<br>- Analyzing data to uncover trends and insights  <br>- Building dashboards and visual reports  <br>- Strengthening skills in data analytics and visualization  <br><br>## 🎯 Goals<br>- To become a skilled data analyst and work on real-world datasets  <br>-To design scalable analytics systems and develop insightful dashboards that transform data into actionable intelligence  
 
 
